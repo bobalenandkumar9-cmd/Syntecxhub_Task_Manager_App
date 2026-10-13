@@ -297,11 +297,10 @@ Never upload your real `.env` files, database passwords, JWT secrets, or other c
 Use `.env.example` to document the required configuration variables without including real secrets.
 
 ## 👨‍💻 Author
+Nandkumar Bobale
 
-**Your Name**
-
-- GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Project: Syntecxhub Task Manager App
+- GitHub: "https://github.com/bobalenandkumar9-cmd"
+- Project: Task Manager App
 
 ## 📄 License
 
